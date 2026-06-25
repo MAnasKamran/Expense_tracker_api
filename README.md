@@ -107,7 +107,6 @@ java -jar target/demo-0.0.1-SNAPSHOT.jar
 
 ## 📸 Screenshots
 
-*(Add Postman screenshots here!)*
 <img width="936" height="317" alt="postman" src="https://github.com/user-attachments/assets/8e6b7726-f5f4-41a2-b613-22753d5d502a" />
 <img width="1366" height="726" alt="postman1" src="https://github.com/user-attachments/assets/85e38c9e-2a98-48b1-a0f5-c8ee103d324d" />
 <img width="1366" height="726" alt="postman1 3" src="https://github.com/user-attachments/assets/0d496ec0-0e64-458c-8388-cdc8813832b7" />
