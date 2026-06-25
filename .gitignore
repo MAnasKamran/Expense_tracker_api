@@ -1,0 +1,13 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven build output
+target/
+*.jar
+*.war
+
+# Application secrets
+application.properties
